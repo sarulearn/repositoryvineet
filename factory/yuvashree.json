@@ -1,0 +1,9 @@
+{
+	"name": "yuvashree",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7b3ede9-eaa0-4ed8-85f1-f84cacc164a7",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
