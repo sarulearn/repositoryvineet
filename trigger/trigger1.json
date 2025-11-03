@@ -1,0 +1,16 @@
+{
+	"name": "trigger1",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"ignoreEmptyBlobs": false,
+			"scope": "/subscriptions/3804aa05-f25f-4bb2-9092-81892b763018/resourceGroups/resourcegrp1/providers/Microsoft.Storage/storageAccounts/blobrama",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}
